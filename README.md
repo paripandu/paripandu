@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Parikshit Sheth
+# 👋 Hi there, I'm Parikshit Kudalkar
 
 ## 🚀 Cloud | DevOps | AWS | Kubernetes | Terraform | Linux Enthusiast
 
